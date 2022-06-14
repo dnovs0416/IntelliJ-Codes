@@ -21,5 +21,6 @@ public class Task1 {
         Task1 task1=new Task1();
         task1.printLarger(12, 24);
 
+
     }
 }
